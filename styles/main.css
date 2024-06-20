@@ -116,6 +116,11 @@ li{
     align-items: center;
 }
 
+.line-break{
+    background-color: var(--mainBorderColor);
+    height: 1px;
+}
+
 .card--work-history{
     border-left: 1px solid var(--mainBorderColor);
     margin-top: 3em;
